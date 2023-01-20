@@ -4,3 +4,6 @@ const nextConfig = {
 }
 
 module.exports = nextConfig
+module.exports = {
+  pageExtensions: ['data.js', 'portfolio-data.js']
+}
